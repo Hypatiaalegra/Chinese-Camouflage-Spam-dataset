@@ -2,8 +2,11 @@
 In the context of the Chinese language, the availability of spam text datasets is currently relatively scarce. The Chinese Camouflaged Spam(CCS) dataset with spam and non-spam information obtained from different sources.  These real-world data sources aim to provide a more com- prehensive representation of the current spam landscape. 
 
 ### CCS dataset structure
-It contains four domains in order: the original spam-related text, the corrected version of the original text, the binary label for spam and
-non-spam detection, the multi label for spam intention recognition(contains 17 categories in total).
+It contains four domains in order: 
+1.the original spam-related text, 
+2.the corrected version of the original text, 
+3.the binary label for spam and non-spam detection, 
+4.the multi label for spam intention recognition(contains 17 categories in total).
 
 There are 23,788 samples in total. After annotation, approximately 42% of the samples contained unintentional or deliberate typo substitution. The total number
 of typos reached a high count of 77,606.
